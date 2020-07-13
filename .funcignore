@@ -1,0 +1,11 @@
+.git*
+.vscode
+.idea
+local.settings.json
+test
+.venv
+*.log
+*.pyc
+*.tmp
+log/
+tmp/
